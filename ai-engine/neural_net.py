@@ -35,3 +35,4 @@ class PositionalEncoding(nn.Module):
 # Optimized logic batch 5020
 # Optimized logic batch 3328
 # Optimized logic batch 6527
+# Optimized logic batch 2236
