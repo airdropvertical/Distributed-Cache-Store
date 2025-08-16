@@ -38,3 +38,4 @@ public class EnterpriseTransactionManager {
 // Optimized logic batch 1706
 // Optimized logic batch 1130
 // Optimized logic batch 3491
+// Optimized logic batch 2373
